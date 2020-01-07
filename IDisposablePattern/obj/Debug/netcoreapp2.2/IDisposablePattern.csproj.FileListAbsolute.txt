@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\bin\Debug\netcoreapp2.2\IDisposablePattern.deps.json
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\bin\Debug\netcoreapp2.2\IDisposablePattern.runtimeconfig.json
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\bin\Debug\netcoreapp2.2\IDisposablePattern.runtimeconfig.dev.json
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\bin\Debug\netcoreapp2.2\IDisposablePattern.dll
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\bin\Debug\netcoreapp2.2\IDisposablePattern.pdb
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\obj\Debug\netcoreapp2.2\IDisposablePattern.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\obj\Debug\netcoreapp2.2\IDisposablePattern.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\obj\Debug\netcoreapp2.2\IDisposablePattern.AssemblyInfoInputs.cache
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\obj\Debug\netcoreapp2.2\IDisposablePattern.AssemblyInfo.cs
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\obj\Debug\netcoreapp2.2\IDisposablePattern.dll
+C:\Users\Code\source\repos\IDisposablePattern\IDisposablePattern\obj\Debug\netcoreapp2.2\IDisposablePattern.pdb
